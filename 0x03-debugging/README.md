@@ -1,0 +1,1 @@
+C Debugging is the process of finding and fixing errors, or bugs, in C programs. Debugging is an important part of software development and is necessary to ensure that programs run correctly and efficiently. When a C program does not work as expected, debugging techniques can be used to identify and fix the problem.
